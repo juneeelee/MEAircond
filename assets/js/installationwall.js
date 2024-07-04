@@ -23,7 +23,7 @@ const translations = {
         installationwallheader: "墙体安装价格表",
         installationwall: "安装",
         installationwallprice: "价格",
-        installationwallfree: "免费包括：10英尺铜管、10英尺电线、室外支架、13安培插头、加注燃气+检查整个空调",
+        installationwallfree: "包括免费：10英尺铜管、10英尺电线、室外支架、13安培插头、加注燃气+检查整个空调",
         installationwallpipe: "超出铜管",
         installationwallpipeprice: "价格 / 英尺",
         installationwallwire: "超出电线",
