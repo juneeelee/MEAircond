@@ -5,7 +5,7 @@ const translations = {
         installationwallheader:"Installation Wall Type Price List",
         installationwall:"Installation",
         installationwallprice:"Price",
-        installationwallfree:"Includes FREE : Cooper Pipe 10FT, Wiring 10FT, Outdoor Bracket, 13 AMP Plug, Top Up Gas + Checking Whole Air Conditioner",
+        installationwallfree:"Includes FREE : Copper Pipe 10FT, Wiring 10FT, Outdoor Bracket, 13 AMP Plug, Top Up Gas + Checking Whole Air Conditioner",
         installationwallpipe:"Over Copper Pipe",
         installationwallpipeprice:"Price / FT",
         installationwallwire:"Over Wiring",

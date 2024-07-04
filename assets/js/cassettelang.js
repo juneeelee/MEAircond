@@ -6,7 +6,7 @@ const translations = {
         installationheader:"Installation Ceiling Cassette",
         installation1:"Installation",
         price1:"Price",
-        free1:"Includes FREE : Cooper Pipe 10FT, Wiring 10FT, Outdoor Bracket, Top Up Gas + Checking Whole Air Conditioner",
+        free1:"Includes FREE : Copper Pipe 10FT, Wiring 10FT, Outdoor Bracket, Top Up Gas + Checking Whole Air Conditioner",
         overcopper1:"Over Copper Pipe",
         price2:"Price",
         overwiring1:"Over Wiring",
