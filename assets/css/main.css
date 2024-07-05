@@ -150,6 +150,7 @@ h6 {
   .header .navmenu {
     order: 3;
   }
+
 }
 
 /* Index Page Header
@@ -186,7 +187,6 @@ h6 {
   .navmenu li {
     position: relative;  
   }
-
 
   .navmenu a,
   .navmenu a:focus {
@@ -449,6 +449,7 @@ h6 {
   .mobile-nav-active .navmenu>ul {
     display: block;
   }
+
 }
 
 /*--------------------------------------------------------------
